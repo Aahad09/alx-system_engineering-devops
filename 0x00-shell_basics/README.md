@@ -1,0 +1,1 @@
+currentworking directory path script

@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell I/O redirections and filters
+echo 'Shell I/O redirections and filters'

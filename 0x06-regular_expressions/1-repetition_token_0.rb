@@ -1,2 +1,8 @@
-#!usr/bin/env ruby
-#puts ARGV[0].scan(/{2,5}n/).join
+#!/usr/bin/env ruby
+#def match_regex(string)
+#  regex = /hb(tt){1,7}n/
+#    return string.match(regex) ? true : false
+#    end
+#
+#    puts match_regex(ARGV[0])
+#
